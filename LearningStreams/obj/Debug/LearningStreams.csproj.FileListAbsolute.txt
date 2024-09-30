@@ -1,0 +1,7 @@
+C:\Users\dba95\RiderProjects\LearningStreams\LearningStreams\bin\Debug\LearningStreams.exe
+C:\Users\dba95\RiderProjects\LearningStreams\LearningStreams\bin\Debug\LearningStreams.pdb
+C:\Users\dba95\RiderProjects\LearningStreams\LearningStreams\obj\Debug\LearningStreams.csproj.AssemblyReference.cache
+C:\Users\dba95\RiderProjects\LearningStreams\LearningStreams\obj\Debug\LearningStreams.csproj.CoreCompileInputs.cache
+C:\Users\dba95\RiderProjects\LearningStreams\LearningStreams\obj\Debug\LearningStreams.exe
+C:\Users\dba95\RiderProjects\LearningStreams\LearningStreams\obj\Debug\LearningStreams.pdb
+C:\Users\dba95\RiderProjects\LearningStreams\LearningStreams\bin\Debug\data.txt
